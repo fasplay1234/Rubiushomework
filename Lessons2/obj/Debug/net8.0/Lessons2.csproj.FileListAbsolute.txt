@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\bin\Debug\net8.0\Lessons2.exe
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\bin\Debug\net8.0\Lessons2.deps.json
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\bin\Debug\net8.0\Lessons2.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\bin\Debug\net8.0\Lessons2.dll
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\bin\Debug\net8.0\Lessons2.pdb
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\obj\Debug\net8.0\Lessons2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\obj\Debug\net8.0\Lessons2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\obj\Debug\net8.0\Lessons2.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\obj\Debug\net8.0\Lessons2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\obj\Debug\net8.0\Lessons2.dll
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\obj\Debug\net8.0\refint\Lessons2.dll
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\obj\Debug\net8.0\Lessons2.pdb
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\obj\Debug\net8.0\Lessons2.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons2\obj\Debug\net8.0\ref\Lessons2.dll
