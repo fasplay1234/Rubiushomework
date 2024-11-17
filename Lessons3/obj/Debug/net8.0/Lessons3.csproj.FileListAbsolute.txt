@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\bin\Debug\net8.0\Lessons3.exe
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\bin\Debug\net8.0\Lessons3.deps.json
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\bin\Debug\net8.0\Lessons3.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\bin\Debug\net8.0\Lessons3.dll
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\bin\Debug\net8.0\Lessons3.pdb
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\obj\Debug\net8.0\Lessons3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\obj\Debug\net8.0\Lessons3.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\obj\Debug\net8.0\Lessons3.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\obj\Debug\net8.0\Lessons3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\obj\Debug\net8.0\Lessons3.dll
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\obj\Debug\net8.0\refint\Lessons3.dll
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\obj\Debug\net8.0\Lessons3.pdb
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\obj\Debug\net8.0\Lessons3.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Rubiushomework\Lessons3\obj\Debug\net8.0\ref\Lessons3.dll
