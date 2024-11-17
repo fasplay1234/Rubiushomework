@@ -1,4 +1,4 @@
-﻿// №1 Методи и функции
+﻿// №1 Методы и функции
 using System;
 // class Program {
 //     static void Main()
